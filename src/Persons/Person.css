@@ -1,0 +1,16 @@
+.Person {
+    width: 60%;
+    margin: 1rem auto;
+    border: 1px solid #ccc;
+    box-shadow: 1px 2px 3px black;
+    padding: 1rem;
+    background: linear-gradient(#ccc, #999);
+    transition: linear 0.25s;
+}
+.Person:hover {
+    border:1px solid blue; 
+}
+.Person input {
+    width: 60%;
+    height: 20px;
+}

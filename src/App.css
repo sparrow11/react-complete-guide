@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.Red{
+  color: red
+}
+
+.bold{
+  font-weight: bold;
+  text-shadow: 1px 3px salmon;
+}
+
+/* .App button {
+  padding : 1rem 2rem;
+  background: #adc;
+  cursor: pointer;
+  color: black;
+  border: 1px solid mediumseagreen;
+}
+.App button.bcRed{
+  padding : 1rem 2rem;
+  cursor: pointer;
+  background: red;
+  border: 1px solid red;
+  color: black;
+} */
